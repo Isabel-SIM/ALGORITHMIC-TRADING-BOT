@@ -12,7 +12,7 @@
   - F1-Score: 0.07 <br>
   - Accuracy: 0.55 <br>
 
-![image](https://github.com/isabelsimundic/WEEK-FOURTEEN-HOMEWORK/assets/127584188/9b889506-8bfc-4586-8ff7-2326572f797b)
+![image](https://github.com/isabelsimundic/WEEK-FOURTEEN-HOMEWORK/blob/main/CODE/returns_plot.png?raw=true)
 <br><br>
 
 
@@ -20,13 +20,15 @@
  
   - Short Window: 10 <br>
   - Long Window: 150 <br>
-  - Date Offset months: 6 <br><br>  **Results: <br>**
+  - Date Offset months: 6 <br><br>
+
+**Results: <br>**
   - Precision: 0.38 <br>
   - Recall: 0.01 <br>
   - F1-Score: 0.01 <br>
   - Accuracy: 0.56 <br>
 
-![image](https://github.com/isabelsimundic/WEEK-FOURTEEN-HOMEWORK/assets/127584188/bdbe2440-e3ae-4630-928b-e9481c26d3db)
+![image](https://github.com/isabelsimundic/WEEK-FOURTEEN-HOMEWORK/blob/main/CODE/returns_plot_2.png?raw=true)
 <br><br>
 
 
@@ -34,13 +36,15 @@
   
   - Short Window: 30 <br>
   - Long Window: 100 <br>
-  - Date Offset months: 4 <br><br>  **Results: <br>**
+  - Date Offset months: 4 <br><br>
+
+**Results: <br>**
   - Precision: 0.44 <br>
   - Recall: 0.04 <br>
   - F1-Score: 0.07 <br>
   - Accuracy: 0.56 <br>
   
-![image](https://github.com/isabelsimundic/WEEK-FOURTEEN-HOMEWORK/assets/127584188/e80a7ecc-c771-4e51-8ea6-98792dc2ef18)
+![image](https://github.com/isabelsimundic/WEEK-FOURTEEN-HOMEWORK/blob/main/CODE/returns_plot_3.png?raw=true)
 <br><br>
 
 
@@ -48,13 +52,15 @@
   
   - Short Window: 40 <br>
   - Long Window: 200 <br>
-  - Date Offset months: 5 <br><br>  **Results: <br>**
+  - Date Offset months: 5 <br><br>
+
+**Results: <br>**
   - Precision: 0.45 <br>
   - Recall: 0.31 <br>
   - F1-Score: 0.37 <br>
   - Accuracy: 0.53 <br>
 
-![image](https://github.com/isabelsimundic/WEEK-FOURTEEN-HOMEWORK/assets/127584188/ac0e2588-3b10-4f6f-bcdb-3e22c7d17a32)
+![image](https://github.com/isabelsimundic/WEEK-FOURTEEN-HOMEWORK/blob/main/CODE/returns_plot_4.png?raw=true)
 
 <br><br>
 
@@ -93,5 +99,7 @@ Answer the following questions: Did this new model perform better or worse than 
   - Recall: 0.08 <br>
   - F1-Score: 0.13 <br>
   - Accuracy: 0.55 <br>
+
+![image](https://github.com/isabelsimundic/WEEK-FOURTEEN-HOMEWORK/blob/main/CODE/adaboost_plot.png?raw=true)  
 
 Based on this analysis, we can conclude that the new model performs better than the baseline model in terms of precision and F1-score, but worse in terms of recall and accuracy. When compared to your tuned trading algorithms (Models Two, Three, and Four), the new model generally performs worse across different metrics, except for precision.
