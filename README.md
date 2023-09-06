@@ -99,4 +99,3 @@ The impact of increasing or decreasing the SMA windows:
 Based on this analysis, the new model performs better than the baseline model in terms of precision and F1-score but worse in terms of recall and accuracy. When compared to the tuned trading algorithms (Models Two, Three, and Four), the new model generally performs worse across different metrics, except for precision.
 
 By combining algorithmic trading and machine learning, this project aims to create a sophisticated trading bot that adapts to evolving markets, ultimately enhancing our firm's competitive advantage in the financial industry.
-
